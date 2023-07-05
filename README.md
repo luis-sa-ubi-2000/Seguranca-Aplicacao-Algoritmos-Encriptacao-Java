@@ -27,7 +27,7 @@ Aqui encontras, passo a passo, tudo o que precisas para trabalhar no nosso softw
 ## [Pedro Inácio](https://www.di.ubi.pt/~inacio/)
 
 ## Objetivos
-### Funcionalidades Mínimas
+### Funcionalidades mínimas
 
 - [x]  Permitir cifrar ficheiros, guardando o resultado numa pasta chamada FALL-INTO-OBLIVION; (explorar diferentes
   tipos de cifra);
