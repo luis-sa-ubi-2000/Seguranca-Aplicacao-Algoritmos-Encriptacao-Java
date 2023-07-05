@@ -1,4 +1,3 @@
-# ![Header](src/imagens/header.png)
 # Projeto - FALL-INTO-OBLIVION
 <table>
 <tr>
