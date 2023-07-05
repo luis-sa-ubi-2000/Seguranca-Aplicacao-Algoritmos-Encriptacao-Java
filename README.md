@@ -19,7 +19,7 @@ Aqui encontras, passo a passo, tudo o que precisas para trabalhar no nosso softw
 
 ## Team
 
-[![Diogo Santos](https://avatars.githubusercontent.com/u/96886187?s=100&v=4)](https://github.com/DidiTuga)| [![Luis]()](https://github.com/luis-sa-ubi-2000) | [![Luís Santos](https://avatars.githubusercontent.com/u/99278985?s=100&v=4)](https://github.com/lsantos92) |[![Tiago Barreiros](https://avatars.githubusercontent.com/u/78179371?s=100&v=4)](https://github.com/tiago-barreiros)|[![Xavier Tacanho]()](https://github.com/XavierTacanho)
+[![Diogo Santos](https://avatars.githubusercontent.com/u/96886187?s=100&v=4)](https://github.com/DidiTuga)| [![Luis](https://avatars.githubusercontent.com/u/118893248?s=400&u=46f6ab2b0b426cf2dfd5cb652b996c45350a7362&v=4)](https://github.com/luis-sa-ubi-2000) | [![Luís Santos](https://avatars.githubusercontent.com/u/99278985?s=100&v=4)](https://github.com/lsantos92) |[![Tiago Barreiros](https://avatars.githubusercontent.com/u/78179371?s=100&v=4)](https://github.com/tiago-barreiros)|[![Xavier Tacanho]()](https://github.com/XavierTacanho)
 ---|--------------------------------------------------|------------------------------------------------------------------------------------------------------------|---|---
 [Diogo Santos](https://github.com/DidiTuga)| [Luís Sá](https://github.com/luis-sa-ubi-2000)   | [Luís Santos](https://github.com/lsantos92)                                                                |[Tiago Barreiros](https://github.com/tiago-barreiros)|[Xavier Tacanho](https://github.com/XavierTacanho)
 
