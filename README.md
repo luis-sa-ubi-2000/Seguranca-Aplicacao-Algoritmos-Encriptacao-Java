@@ -10,10 +10,6 @@ Recycle Bin dos sistemas operativos modernos, mas de uma forma alternativa pouco
 </table>
 
 
-## Repositório GitHub
-Após a entrega deste projeto ficará publico :  https://github.com/DidiTuga/fall_into_oblivio
-
-
 ## Aplicação
 
 ### Página Principal
